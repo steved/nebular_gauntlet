@@ -1,6 +1,0 @@
----
-linear: true
-objectives:
-- !ruby/struct:Objective 
-  x: 400
-  y: 500
