@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/ng/!svn/ver/465/trunk/lib/console
+END
+command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ng/!svn/ver/460/trunk/lib/console/command.rb
+END
+chat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ng/!svn/ver/465/trunk/lib/console/chat.rb
+END
+input.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ng/!svn/ver/465/trunk/lib/console/input.rb
+END
+keyboard.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ng/!svn/ver/435/trunk/lib/console/keyboard.rb
+END
+console.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ng/!svn/ver/467/trunk/lib/console/console.rb
+END

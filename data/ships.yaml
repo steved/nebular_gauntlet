@@ -1,0 +1,16 @@
+---
+- name: basic
+  image: data/images/icon.bmp
+  weapon: basic
+- name: basic laser
+  image: data/images/icon.bmp
+  weapon: laser
+- name: basic 3 shot
+  image: data/images/icon.bmp
+  weapon: basic 3 shot
+- name: basic 360 shot
+  image: data/images/icon.bmp
+  weapon: 360 shot
+- name: basic homing missile
+  image: data/images/icon.bmp
+  weapon: homing missile

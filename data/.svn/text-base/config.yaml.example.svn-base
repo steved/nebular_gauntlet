@@ -1,0 +1,11 @@
+--- 
+keys: 
+  Move Forward: UP
+  Rotate Right: RIGHT
+  Fire: SPACE
+  Screenshot: F1
+  Rotate Left: LEFT
+user: 
+  name: steve
+  volume: 122
+  sound: "on"

@@ -1,0 +1,26 @@
+=================
+Nebular Gauntlet
+=================
+
+== What is Nebular Gauntlet? ==
+Nebular Gauntlet is a 2D, top-down, asteroids inspired space shooter that hopes
+to show that Ruby really is a wonderful language for every application.
+
+== Dependencies ==
+Ruby/SDL
+EventMachine
+
+*Optional:
+Daemons for server_control.rb
+Fox 1.6 and FXRuby for Map Editor
+
+== Links: ==
+Homepage: http://nebulargauntlet.org
+Trac: http://nebulargauntlet.org/trac/ng
+Download: http://rubyforge.org/projects/nebulargauntlet
+
+== License ==
+Nebular Gauntlet is licensed under the GPL v2.
+
+== Copyright ==
+(c) 2008 Steven Davidovitz 

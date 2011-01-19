@@ -1,0 +1,44 @@
+Version 0.2a
+* Single Player mode introduced
+* Loading/Saving of Single Player Games
+* Entity loading from map file
+* Map Editor fixes by the dozen
+* Multiplayer fixes and small speedups
+* General Cleanups including a move towards Ruby code conventions
+
+Version 0.3
+* Ship choosing for Single player games, configured in data/ships.yaml
+* Health/Shield Attributes of Player Ship
+* Powerups - Health, Shield, Strength
+* New map - Planets
+* New font for Menu system
+* New layout for maps directory sp_ prefix for single player, mp_ for multiplayer
+* Small fixes and cleanups
+
+Version 0.4
+* Death Cam in Single Player mode
+* Console fixes and improvements
+* New Menu Background
+* Bot improvements (though, it still isn't very good)
+* Weapon Configuration through weapons.yaml
+* Many small fixes
+* Map Editor Rewrite using Fox 1.6 (Cross-platform)
+
+Version 0.5
+* Online Multiplyer options disabled until further notice
+* Sound system
+* New Weapon Effects - Scatter, Particle Effects, Homing
+* Timer class for timed powerups
+* AI Improvements
+* Particle System
+* Mission Settings configured through YAML files
+* Map directory format improved
+* New menu font
+* General code cleanups, fixes
+
+Version 0.6
+* Ruby 1.9 compatability
+* Multiplayer retooled, enabled
+* Weapon timing changes
+* UI Enhancements
+* Small fixes

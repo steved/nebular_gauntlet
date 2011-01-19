@@ -1,0 +1,7 @@
+explosion: data/sounds/explosion.wav
+basic: data/sounds/fire.wav
+basic 3 shot: data/sounds/fire.wav
+360 shot : data/sounds/fire.wav
+homing missile: data/sounds/fire.wav
+laser: data/sounds/fire.wav
+explosion2: data/sounds/explosion2.wav

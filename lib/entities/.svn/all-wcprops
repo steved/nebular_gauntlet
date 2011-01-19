@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ng/!svn/ver/466/trunk/lib/entities
+END
+powerup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ng/!svn/ver/457/trunk/lib/entities/powerup.rb
+END
+particle.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ng/!svn/ver/465/trunk/lib/entities/particle.rb
+END
+ship.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ng/!svn/ver/460/trunk/lib/entities/ship.rb
+END
+bot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ng/!svn/ver/463/trunk/lib/entities/bot.rb
+END
+camera.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ng/!svn/ver/466/trunk/lib/entities/camera.rb
+END
+flag.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ng/!svn/ver/459/trunk/lib/entities/flag.rb
+END
+pillbox.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ng/!svn/ver/460/trunk/lib/entities/pillbox.rb
+END
+weapon.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ng/!svn/ver/405/trunk/lib/entities/weapon.rb
+END

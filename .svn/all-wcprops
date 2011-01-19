@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/ng/!svn/ver/466/trunk
+END
+start.rb
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/ng/!svn/ver/352/trunk/start.rb
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/ng/!svn/ver/463/trunk/CHANGELOG
+END
+server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/ng/!svn/ver/455/trunk/server.rb
+END
+server_control.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ng/!svn/ver/143/trunk/server_control.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/ng/!svn/ver/463/trunk/README
+END

@@ -1,0 +1,91 @@
+9
+
+dir
+467
+http://www.nebulargauntlet.org/svn/ng/trunk/data
+http://www.nebulargauntlet.org/svn/ng
+
+
+
+2008-09-01T20:32:16.251831Z
+467
+steve
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0b265f7-1810-0410-8f8d-e1f0edac1719
+
+screenshots
+dir
+
+config.yaml.example
+file
+
+
+
+
+2008-09-01T20:30:35.000000Z
+7f3f0408ee613ff10d453903e3a22793
+2008-09-01T20:32:16.251831Z
+467
+steve
+
+images
+dir
+
+ships.yaml
+file
+466
+
+
+
+2008-07-15T15:31:35.000000Z
+c1bbb975c4f9ab1c3427193d7dda9295
+2007-03-01T03:34:58.895602Z
+348
+steve
+
+fonts
+dir
+
+savegames
+dir
+
+sounds
+dir
+
+sounds.yaml
+file
+466
+
+
+
+2008-07-15T15:31:35.000000Z
+0caca106ad70eb9c96f820f83aaafddd
+2007-04-22T03:11:54.233750Z
+375
+steve
+
+weapons.yaml
+file
+466
+
+
+
+2008-07-15T15:31:35.000000Z
+f26f675fc1193a28eed7c37c92c42eaf
+2008-02-09T05:25:31.049306Z
+455
+steve
+

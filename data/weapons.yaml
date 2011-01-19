@@ -1,0 +1,41 @@
+---
+basic:
+ image: data/images/fire.gif
+ damage: 25
+ num: 1
+ scatter: uniform
+ tracking: false
+ reload: 3
+ fx: false
+laser:
+ image: data/images/laser.png
+ damage: 50
+ num: 1
+ scatter: uniform
+ tracking: false
+ reload: 4
+ fx: false
+basic 3 shot:
+ image: data/images/fire.gif
+ damage: 15
+ num: 3
+ scatter: uniform
+ tracking: false
+ reload: 4
+ fx: false
+360 shot:
+ image: data/images/fire.gif
+ damage: 5
+ num: 12
+ scatter: uniform
+ tracking: false
+ reload: 6
+ fx: false
+homing missile:
+ image: data/images/fire.gif
+ damage: 30
+ num: 1
+ scatter: uniform
+ tracking: true
+ reload: 8
+ fx: true

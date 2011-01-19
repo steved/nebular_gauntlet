@@ -1,0 +1,11 @@
+--- 
+map: 
+  layers: {}
+
+  tilewidth: 32
+  tilesets: {}
+
+  background: background.png
+  height: 32
+  tileheight: 32
+  width: 32
